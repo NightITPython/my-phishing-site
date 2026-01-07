@@ -1,2 +1,0 @@
-my-phishing-site/ │ ├── html ├── index.html
-
